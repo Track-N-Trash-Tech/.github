@@ -46,8 +46,8 @@ Key components of the system include:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/devrihan/WasteWatch.git
-   cd WasteWatch
+   git clone https://github.com/Track-N-Trash-Tech/.github
+   cd Track-N-Trash-Tech
    ```
 
 2. **Backend Setup**
